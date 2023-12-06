@@ -15,9 +15,9 @@
 
 ### to Book: 
 
-call: 02382 516 797
+<ins>**call**</ins>: 02382 516 797
 
-Email: reception@botleigh-Grange.com
+<ins>**Email**</ins>: Reception@botleigh-Grange.com
 
 ![image](https://github.com/Botleigh-Grange/Menus/assets/151997230/e0f0a94a-5a9f-41ca-a541-a18ed3ac7bf5)
 ![image](https://github.com/Botleigh-Grange/Menus/assets/151997230/addaef27-a181-449a-9ffd-acd47e359b11)
