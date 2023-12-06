@@ -9,7 +9,7 @@
 
 2 course meal: ***£13.99***
 
-3 course meal:****£15.99***
+3 course meal:***£15.99***
 
 **Above prices exclude "from the grill " and Lunch menu**
 
