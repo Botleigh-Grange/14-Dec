@@ -3,8 +3,6 @@
 <ins>***MENUS***</ins>
 
 # **Afternoon tea**
-<details>
-<summary> Read more </summary>
 
 *£23.99 per person for adults*
 
@@ -25,7 +23,7 @@ Email: reception@botleigh-Grange.com
 
 # **Restaurant**
 
-<details>
+
 
 <summary> Read more </summary>
 
