@@ -5,15 +5,18 @@
 
 
 
-1 course meal: ***£10.99***
+>One course meal: ***£10.99***
 
-2 course meal: ***£13.99***
+>Two course meal: ***£13.99***
 
-3 course meal:***£15.99***
+>Three course meal:***£15.99***
 
-**Above prices exclude "from the grill " and Lunch menu**
+- - - 
+** ***Above prices exclude "from the grill " and Lunch menu***  **
 
-### to Book: 
+- - - 
+### To Book : 
+
 
 <ins>**call**</ins>: 02382 516 797
 
